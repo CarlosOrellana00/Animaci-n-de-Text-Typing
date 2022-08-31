@@ -1,4 +1,4 @@
-# Animaci-n-de-Text-Typing
+# Animación-de-Text-Typing
 un texto animado que da la sensación de que se escribe solo cuando lo observas, dando una señalación de Interactividad. hecho en HTML, CSS y JavaScript.  
 
 <div align="center">
@@ -34,31 +34,34 @@ de manera local en una computadora.
 
 ## ¿Cómo se nos presenta?
 
-
+al abrir la pagína veremos como esta posee un texto en su area central, dicho texto veremos como se esta escribiendo, siendo la palabra "Hola"
 <div align="center">
   <a href="https://carlosorellana00.github.io/Animaci-n-de-Text-Typing/" rel="noopener">
     <img src="docs/img/img.jpg" alt="icon" width="70%">
   </a>
 </div>
 
+posteriormente veremos como esta misma palabra empieza a borrarse, de una forma similar a como si lo hiciesemos con un texto en linea.
 <div align="center">
   <a href="https://carlosorellana00.github.io/Animaci-n-de-Text-Typing/" rel="noopener">
     <img src="docs/img/img1.jpg" alt="icon" width="70%">
   </a>
 </div>
 
+y en la misma area, empieza a escribirse una nueva frase.
 <div align="center">
   <a href="https://carlosorellana00.github.io/Animaci-n-de-Text-Typing/" rel="noopener">
     <img src="docs/img/img2.jpg" alt="icon" width="70%">
   </a>
 </div>
-
+al acabar la nueva frase, se repetira el proceso
 <div align="center">
   <a href="https://carlosorellana00.github.io/Animaci-n-de-Text-Typing/" rel="noopener">
     <img src="docs/img/img3.jpg" alt="icon" width="70%">
   </a>
 </div>
-
+este ejemplo solo tiene 3 frases, que al acabar se repetira el proceso volviendo a reescribir las frases, al ajustar los tiempos o agregar mas fraces veremos como  
+estas pueden ir mas rapido o mas lento y una cantidad de fraces de acuerdo a al array de frases predeterminadas que le escribamos.
 <div align="center">
   <a href="https://carlosorellana00.github.io/Animaci-n-de-Text-Typing/" rel="noopener">
     <img src="docs/img/img4.jpg" alt="icon" width="70%">
